@@ -1,11 +1,14 @@
 # ARIAC Competition
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Picking and delivering parts in an industrial environment with faulty parts/faulty gripper/sensor blackout/moving obstacles
 
 ## Team members
-1. Pradeep Gopal
+1. Govind Ajith Kumar
 2. Rajesh NS
-3. Govind Ajith Kumar
+3. Pradeep Gopal
 4. Dakota Abernathy
 5. Cheng Chen
 
